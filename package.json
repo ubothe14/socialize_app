@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    
     "install-all": "npm install --prefix backend && npm install --prefix frontend/chat",
     "build": "npm run install-all && npm run build --prefix frontend/chat",
     "start": "npm start --prefix backend"
@@ -11,5 +10,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6"
+  }
 }
