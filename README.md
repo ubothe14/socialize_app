@@ -73,7 +73,7 @@ cd backend
 npm install
 
 # Install frontend dependencies
-cd ../frontend
+cd ../frontend/chat
 npm install
 
 3️⃣ Set environment variables
@@ -91,7 +91,7 @@ cd backend
 npm run dev
 
 # Start frontend
-cd ../frontend
+cd ../frontend/chat
 npm start
 
 🌍 Deployment
