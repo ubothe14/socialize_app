@@ -1,22 +1,13 @@
 {
-  "name": "chat-application",
+  "name": "streamify",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
- "scripts": {
-   "install-all": "npm install --prefix backend && npm install --prefix frontend/chat",
-    "build": "npm run install-all && npm run build --prefix frontend/chat",
-    "start": "npm start --prefix backend"
-}
-
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "@tailwindcss/postcss": "^4.1.13",
-    "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.6"
-  }
+  "description": ""
 }

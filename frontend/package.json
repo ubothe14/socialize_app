@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "chat-application": "file:.."
+    "chat-application": "file:..",
+    "streamify": "file:.."
   }
 }
