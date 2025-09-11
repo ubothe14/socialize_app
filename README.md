@@ -1,9 +1,9 @@
-# 🌍 Socialize App – Language Exchange & Real-time Communication Platform  
+# 🌍 Streamify App – Language Exchange & Real-time Communication Platform  
 
 A modern full-stack web application that combines **real-time messaging**, **video calling**, and **language exchange features** with a beautifully themed UI.  
 Built with **React, Express, MongoDB, TailwindCSS, Zustand, and TanStack Query** – fully scalable and production-ready.  
 
-🔗 **Live Demo:** [Socialize App](https://socialize-app-dzyh.onrender.com/)  
+🔗 **Live Demo:** [Streamify App](https://socialize-app-dzyh.onrender.com/)  
 📂 **Repository:** [GitHub Repo](https://github.com/ubothe14/socialize_app)  
 
 ---
